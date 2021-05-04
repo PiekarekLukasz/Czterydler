@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Czterydler/static/css/main.b54c2c06.chunk.css",
+    "main.js": "/Czterydler/static/js/main.8c4c33ed.chunk.js",
+    "main.js.map": "/Czterydler/static/js/main.8c4c33ed.chunk.js.map",
+    "runtime-main.js": "/Czterydler/static/js/runtime-main.f518a9dc.js",
+    "runtime-main.js.map": "/Czterydler/static/js/runtime-main.f518a9dc.js.map",
+    "static/js/2.269d0e43.chunk.js": "/Czterydler/static/js/2.269d0e43.chunk.js",
+    "static/js/2.269d0e43.chunk.js.map": "/Czterydler/static/js/2.269d0e43.chunk.js.map",
+    "index.html": "/Czterydler/index.html",
+    "static/css/main.b54c2c06.chunk.css.map": "/Czterydler/static/css/main.b54c2c06.chunk.css.map",
+    "static/js/2.269d0e43.chunk.js.LICENSE.txt": "/Czterydler/static/js/2.269d0e43.chunk.js.LICENSE.txt",
+    "static/media/done.dcc01670.jpg": "/Czterydler/static/media/done.dcc01670.jpg",
+    "static/media/todolist.30cfdb3c.jpg": "/Czterydler/static/media/todolist.30cfdb3c.jpg",
+    "static/media/writting.03bbbb93.jpg": "/Czterydler/static/media/writting.03bbbb93.jpg",
+    "static/media/wrong_tab.b1ee3c63.png": "/Czterydler/static/media/wrong_tab.b1ee3c63.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f518a9dc.js",
+    "static/js/2.269d0e43.chunk.js",
+    "static/css/main.b54c2c06.chunk.css",
+    "static/js/main.8c4c33ed.chunk.js"
+  ]
+}
